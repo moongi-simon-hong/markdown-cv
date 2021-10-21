@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: moongi  hong cv
 ---
 # Moongi Hong, MD, MS
 Medical doctor pivoted to data scientist with aspiring interest in AI
