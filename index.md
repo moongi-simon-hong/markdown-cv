@@ -11,7 +11,6 @@ title: moongi  hong cv
 ## Contact
 - moongi.simon.hong@gmail.com
 - Live in Bundang, Seongnam, Korea
-
 ## Education
 `Sep 2019 ~ Aug 2021 `
 - M.S. in Biomedical Informatics
@@ -36,7 +35,7 @@ title: moongi  hong cv
 
 ## Research
 `Mar 2019 ~ Aug 2021`
-- Research Assistant, Prof. Sang Min Nam's lab, CHA University
+- Research Assistant, CHA University
   - Collected and managed 100k+ patients generated data including images and lab test. 
   - Controlled quality of data by manual labelling or modelling.
 
@@ -55,10 +54,12 @@ title: moongi  hong cv
 
 ## Presentation
 `Oct 2019`
-- Introducing Research Group, 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
+- Introducing Research Group,
+  - 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
 
 `Oct 2020`
-- Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
+- Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
+  - 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
 
 ## Skills
 - python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3
