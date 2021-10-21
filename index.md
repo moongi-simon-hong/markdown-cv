@@ -17,7 +17,6 @@ title: moongi  hong cv
 - M.S. in Biomedical Informatics
   - CHA University, Seongnam, Korea
   - Adviosr : Hyunwook Han
-
 `Mar 2009 ~ Feb 2016`
 - M.D.
   - Yonsei university, Wonju, Korea
@@ -45,7 +44,7 @@ title: moongi  hong cv
   - Predicted with automated XGBoost model, and explained model using SHAP.  
   - Suggested clinical relevance using statistical methods such as survival curve, multiple logistic regression, network graph.
 
-## teaching
+## Teaching
 `Fall 2019, Fall 2020`
 - Teaching Assitant, CHA University Medical School
   - Medical Statistics 
@@ -53,10 +52,10 @@ title: moongi  hong cv
 ## Presentation
 `Oct 2019`
 - Introducing Research Group, 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
-`2020`
+`Oct 2020`
 - Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응,72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
-``
-- kosmi
+`Jul 2021`
+- Research poster, 
 
 ## Computing
 ### python
