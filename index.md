@@ -8,7 +8,7 @@ title: moongi  hong cv
 ## Present Position
 - Researcher, CHA University, Seongnam, Korea
 
-## contact information
+## Contact
 - moongi.simon.hong@gmail.com
 - Live in Bundang, Seongnam, Korea
 
@@ -26,10 +26,7 @@ title: moongi  hong cv
 `Apr 2016 ~ Apr 2019`
 - Pirmary Care, Public Health Doctor
 
-## License & Certificate
-`2016`
-- Medical License, Korea, Ministry of Health 
-
+## Certificate
 `2019 2020`
 - Seongnam-KAIST AI Intensive Course
 
@@ -63,15 +60,11 @@ title: moongi  hong cv
 `Oct 2020`
 - Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
 
-## Computing
-### python
-numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3
-### R
-glm, ggplot, qgraph
-### linux
-jupyter, vim, emacs, postgresql
-### tools
-endnote, word, powerpoint
+## Skills
+- python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3
+- R : glm, ggplot, qgraph
+- linux : jupyter, vim, emacs, postgresql
+- tools : endnote, word, powerpoint
 
 ## Self-Study
 Structure and Interpretation of Computer Prgrams (cs61a, UCB OCW)
