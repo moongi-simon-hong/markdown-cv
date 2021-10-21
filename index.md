@@ -10,8 +10,8 @@ title: moongi  hong cv
 Researcher, CHA University, Seongnam, Korea
 
 ### contact information
-- moongi.simon.hong@gmail.com
-- live in Bundang, Seongnam, Korea
+moongi.simon.hong@gmail.com
+live in Bundang, Seongnam, Korea
 
 ## Education
 `Sep 2019 ~ Aug 2021 `
@@ -33,13 +33,11 @@ Researcher, CHA University, Seongnam, Korea
 
 ## Research
 `Mar 2019 ~ Aug 2021`
-- Research Assistant
-  - Deep learning in Retinal Images, 
-  - Worked with Prof. Sangmin Nam of opthalmology to predict kidney function from fundoscopy. 
-  - Managed 100k+ patients generated data including images and lab test.
+- Research Assistant, Prof. Sang Min Nam's lab, CHA University
+  - Managed 100k+ patients generated data including images and lab test. 
 
 `Sep 2020 ~ Present`
-- Master's Thesis
+- Master's Thesis, 
   - Machine learning in Kidney transplantation, 
   - Worked with Prof. of Yuho Lee of nephrology to predict kidney function after transplantation.
   - Predicted with automated XGBoost model, and explained model using SHAP.  
@@ -48,7 +46,7 @@ Researcher, CHA University, Seongnam, Korea
 ## Teaching
 `Fall 2019, Fall 2020`
 - Teaching Assitant, CHA University Medical School
-  - Medical Statistics 
+  - Medical Statistics and medical informatics
 
 ## Presentation
 `Oct 2019`
