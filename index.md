@@ -55,7 +55,7 @@ title: moongi  hong cv
 
 ## Presentation
 `Oct 2019`
-- Introducing Research Group,
+- Introducing Research Group
   - 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
 
 `Oct 2020`
