@@ -38,7 +38,7 @@ title: moongi  hong cv
 `Mar 2019 ~ Aug 2021`
 - Research Assistant, CHA University
   - Collected and managed 100k+ patients generated data including images and lab test. 
-  - Controlled quality of data by manual labelling or modelling.
+  - Developed deep learning model to predict side(left, right)
 
 `Sep 2020 ~ Present`
 - Master's Thesis, CHA University
@@ -63,9 +63,9 @@ title: moongi  hong cv
   - 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
 
 ## Skills
-- python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3
+- python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
 - R : glm, ggplot, qgraph
-- linux : jupyter, vim, emacs, postgresql
+- linux : bash, zsh, jupyter, vim, emacs, postgresql
 - tools : endnote, word, powerpoint
 
 ## Self-Study
