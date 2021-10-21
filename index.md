@@ -11,6 +11,7 @@ title: moongi  hong cv
 ## Contact
 - moongi.simon.hong@gmail.com
 - Live in Bundang, Seongnam, Korea
+
 ## Education
 `Sep 2019 ~ Aug 2021 `
 - M.S. in Biomedical Informatics
