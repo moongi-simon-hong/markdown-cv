@@ -5,11 +5,10 @@ title: moongi  hong cv
 
 # Moongi Hong, M.D., M.S.
 
-## Personal Information
-### Present Position
+## Present Position
 Researcher, CHA University, Seongnam, Korea
 
-### contact information
+## contact information
 moongi.simon.hong@gmail.com
 live in Bundang, Seongnam, Korea
 
@@ -18,6 +17,7 @@ live in Bundang, Seongnam, Korea
 - M.S. in Biomedical Informatics
   - CHA University, Seongnam, Korea
   - Adviosr : Hyunwook Han
+
 `Mar 2009 ~ Feb 2016`
 - M.D.
   - Yonsei university, Wonju, Korea
