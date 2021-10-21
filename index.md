@@ -42,11 +42,11 @@ title: moongi  hong cv
 
 `Sep 2020 ~ Present`
 - Master's Thesis, CHA University
-  - Predicted prognosis after kidney transplantation and explained it's impact.
-  - Developed GPU-accelerated xgboost model for binary classification. 
-  - Explained model with shapley values, and validated prediction by survival analysis.
-  - Built surrogate logistic regression model to show statistical significance.
-  - Suggested essential risk factor using network analysis.
+  - Predicted prognosis after kidney transplantation and explained it's impact
+  - Developed GPU-accelerated xgboost model for binary classification 
+  - Explained model with shapley values, and validated prediction by survival analysis
+  - Built surrogate logistic regression model to show statistical significance
+  - Suggested essential risk factor by network analysis
 
 ## Teaching
 `Fall 2019, Fall 2020`
