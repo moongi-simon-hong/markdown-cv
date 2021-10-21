@@ -9,6 +9,7 @@ Medical doctor pivoted to data scientist with aspiring interest in AI
 Oct,2021 ~ Present
 Researcher, Research-driven Hospital Team
 Bundang CHA medical center, Seongnam, Korea
+--------
 
 contact information
 +82-10-3706-9082
