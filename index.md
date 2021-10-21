@@ -27,22 +27,29 @@ title: moongi  hong cv
 - Pirmary Care, Public Health Doctor
 
 ## License & Certificate
+`2016`
 - Medical License, Korea, Ministry of Health 
-- Seongnam-KAIST AI Intensive Course (2019, 2020)
-- Datacamp Python Programmer, Data Analyst, Data Scientist (including 62 completed courses)
+
+`2019 2020`
+- Seongnam-KAIST AI Intensive Course
+
+`2020`
+- Datacamp Python Programmer, Data Analyst, Data Scientist 
+  - included 62+ courses which took 200+ hours
 
 ## Research
 `Mar 2019 ~ Aug 2021`
 - Research Assistant, Prof. Sang Min Nam's lab, CHA University
-  - I managed data, labeld data
-  - Managed 100k+ patients generated data including images and lab test. 
+  - Collected and managed 100k+ patients generated data including images and lab test. 
+  - Controlled quality of data by manual labelling or modelling.
 
 `Sep 2020 ~ Present`
 - Master's Thesis, CHA University
-  - Machine learning in Kidney transplantation, 
-  - Worked with Prof. of Yuho Lee of nephrology to predict kidney function after transplantation.
-  - Predicted with automated XGBoost model, and explained model using SHAP.  
-  - Suggested clinical relevance using statistical methods such as survival curve, multiple logistic regression, network graph.
+  - Predicted prognosis after kidney transplantation and explained it's impact.
+  - Developed GPU-accelerated xgboost model for binary classification. 
+  - Explained model with shapley values, and validated prediction by survival analysis.
+  - Built surrogate logistic regression model to show statistical significance.
+  - Suggested essential risk factor using network analysis.
 
 ## Teaching
 `Fall 2019, Fall 2020`
@@ -54,10 +61,7 @@ title: moongi  hong cv
 - Introducing Research Group, 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
 
 `Oct 2020`
-- Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응,72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
-
-`Jul 2021`
-- Research poster, 
+- Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
 
 ## Computing
 ### python
