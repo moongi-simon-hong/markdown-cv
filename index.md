@@ -37,10 +37,13 @@ title: moongi  hong cv
 
 ## Research
 `Mar 2019 ~ Aug 2021`
-- Research Assistant, CHA University
-  - Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis.
-  - Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
-  - Controlled quailty of data by method combining manual labelling and modelling. 
+Research Assistant, CHA University
+
+Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis.
+
+Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
+
+Controlled quailty of data by method combining manual labelling and modelling. 
 
 `Sep 2020 ~ Present`
 - Master's Thesis, CHA University
