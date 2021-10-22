@@ -56,15 +56,15 @@ title: moongi  hong cv
 ## Presentation
 `Oct 2019`
 - Introducing Research Group
-  - 1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex
+  - 1st Healthcare Bigdata Symposium
 
 `Oct 2020`
-- Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
-  - 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
+- 72th Fall Conference of Korean Epidemiological Society
+  - Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
 
 `July 2021`
-- Poster, Renal function prediction after of kidney after kidney transplantation
-  - 2021 Spring Conference of Korean Society of Medical Informatics
+- 2021 Spring Conference of Korean Society of Medical Informatics
+  - Poster, Renal function prediction after of kidney after kidney transplantation
 
 ## Skills
 - Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
