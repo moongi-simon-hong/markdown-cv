@@ -56,6 +56,10 @@ __Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 
 `2021`
 __Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
 
+## Award
+`2021`
+- __입선__: 장은찬, __홍문기__, 구장회, 남상민: 보건의료빅데이터 활용 창업 경진대회, 건강보험심사평가원
+
 ## Certificate
 `2019 2020`
 - __Seongnam-KAIST AI Intensive Course__
