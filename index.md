@@ -14,12 +14,12 @@ title: moongi  hong cv
 
 ## Education
 `Sep 2019 ~ Aug 2021 `
-- M.S. in Biomedical Informatics
+- __M.S.__ in Biomedical Informatics
   - CHA University, Seongnam, Korea
   - Adviosr : Hyunwook Han
 
 `Mar 2009 ~ Feb 2016`
-- M.D.
+- __M.D.__
   - Yonsei university, Wonju, Korea
 
 ## Experience
