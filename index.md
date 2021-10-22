@@ -65,12 +65,15 @@ Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction a
 
 ## Skills
 Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
+
 R : glm, ggplot, qgraph
+
 Linux : bash, zsh, jupyter, vim, emacs, postgresql
+
 Tools : endnote, word, powerpoint
 
 ## Self-Study
-Structure and Interpretation of Computer Prgrams (cs61a, UCB OCW)
+Structure and Interpretation of Computer Prgrams (cs61a, UCB)
 
 ## Intersts
 Table tennis, Classical music, Movie, Reading
