@@ -9,7 +9,7 @@ title: moongi  hong cv
 - __Researcher__, CHA University, Seongnam, Korea
 
 ## Contact
-- moongi.simon.hong@gmail.com
+- __moongi.simon.hong@gmail.com__
 - Live in Bundang, Seongnam, Korea
 
 ## Education
