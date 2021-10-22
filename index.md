@@ -37,22 +37,22 @@ title: moongi  hong cv
 
 ## Research
 `Mar 2019 ~ Aug 2021`
-Research Assistant, CHA University
+__Research Assistant, CHA University__
 
-Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis.
+1. Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis.
 
-Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
+2. Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
 
-Controlled quailty of data by method combining manual labelling and modelling. 
+3. Controlled quailty of data by method combining manual labelling and modelling. 
 
 `Sep 2020 ~ Present`
-Master's Thesis, CHA University
+__Master's Thesis, CHA University__
 
-Worked with Prof. Yu Ho Lee of nephrology to predicted prognosis after kidney transplantation from national cohort of 4k+ patients.
+1. Worked with Prof. Yu Ho Lee of nephrology to predicted prognosis after kidney transplantation from national cohort of 4k+ patients.
 
-Developed GPU-accelerated xgboost model for binary classification, explained model with shapley values, and validated prediction by survival analysis.
+2. Developed GPU-accelerated xgboost model for binary classification, explained model with shapley values, and validated prediction by survival analysis.
 
-Built surrogate logistic regression model to confirm statistical significances, and suggested 2 essential risk factors by network analysis.
+3. Built surrogate logistic regression model to confirm statistical significances, and suggested 2 essential risk factors by network analysis.
 
 ## Teaching
 `Fall 2019, Fall 2020`
