@@ -58,10 +58,10 @@ __Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal func
 
 ## Certificate
 `2019 2020`
-- Seongnam-KAIST AI Intensive Course
+- __Seongnam-KAIST AI Intensive Course__
 
 `Datacamp.com`
-- Python Programmer, Data Analyst, Data Scientist 
+- __Python Programmer, Data Analyst, Data Scientist__
   - included 60+ courses which took 200+ hours
 
 ## Skills
