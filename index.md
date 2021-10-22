@@ -55,13 +55,13 @@ title: moongi  hong cv
 
 ## Presentation
 `2019`
-- Speaker: Introducing Research Group, 1st Healthcare Bigdata Symposium
+Speaker: Introducing Research Group, 1st Healthcare Bigdata Symposium
 
 `2020`
-- Discussion Panel: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
+Discussion Panel: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
 
 `2021`
-- Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, 2021 Spring Conference of Korean Society of Medical Informatics
+Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, 2021 Spring Conference of Korean Society of Medical Informatics
 
 ## Skills
 - Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
