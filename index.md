@@ -46,10 +46,13 @@ Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared
 Controlled quailty of data by method combining manual labelling and modelling. 
 
 `Sep 2020 ~ Present`
-- Master's Thesis, CHA University
-  - Worked with Prof. Yu Ho Lee of nephrology to predicted prognosis after kidney transplantation from national cohort of 4k+ patients.
-  - Developed GPU-accelerated xgboost model for binary classification, explained model with shapley values, and validated prediction by survival analysis.
-  - Built surrogate logistic regression model to confirm statistical significances, and suggested 2 essential risk factors by network analysis.
+Master's Thesis, CHA University
+
+Worked with Prof. Yu Ho Lee of nephrology to predicted prognosis after kidney transplantation from national cohort of 4k+ patients.
+
+Developed GPU-accelerated xgboost model for binary classification, explained model with shapley values, and validated prediction by survival analysis.
+
+Built surrogate logistic regression model to confirm statistical significances, and suggested 2 essential risk factors by network analysis.
 
 ## Teaching
 `Fall 2019, Fall 2020`
