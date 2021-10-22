@@ -67,10 +67,10 @@ title: moongi  hong cv
   - 2021 Spring Conference of Korean Society of Medical Informatics
 
 ## Skills
-- python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
+- Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
 - R : glm, ggplot, qgraph
-- linux : bash, zsh, jupyter, vim, emacs, postgresql
-- tools : endnote, word, powerpoint
+- Linux : bash, zsh, jupyter, vim, emacs, postgresql
+- Tools : endnote, word, powerpoint
 
 ## Self-Study
 Structure and Interpretation of Computer Prgrams (cs61a, UCB OCW)
