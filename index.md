@@ -24,16 +24,9 @@ title: moongi  hong cv
 
 ## Experience
 `Apr 2016 ~ Apr 2019`
-- Pirmary Care, Public Health Doctor
+- __Pirmary Care__, Public Health Doctor
   - Alternative Military Service, Korea
 
-## Certificate
-`2019 2020`
-- Seongnam-KAIST AI Intensive Course
-
-`2019 2020`
-- Datacamp Python Programmer, Data Analyst, Data Scientist 
-  - included 60+ courses which took 200+ hours
 
 ## Research
 `Mar 2019 ~ Aug 2021`
@@ -55,13 +48,21 @@ title: moongi  hong cv
 
 ## Presentation
 `2019`
-Speaker: Introducing Research Group, 1st Healthcare Bigdata Symposium
+__Speaker: Introducing Research Group__, 1st Healthcare Bigdata Symposium
 
 `2020`
-Discussion Panel: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
+__Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
 
 `2021`
-Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
+Poster: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
+
+## Certificate
+`2019 2020`
+- Seongnam-KAIST AI Intensive Course
+
+`Datacamp.com`
+- Python Programmer, Data Analyst, Data Scientist 
+  - included 60+ courses which took 200+ hours
 
 ## Skills
 Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
