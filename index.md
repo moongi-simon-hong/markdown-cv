@@ -24,7 +24,7 @@ title: moongi  hong cv
 
 ## Experience
 `Apr 2016 ~ Apr 2019`
-- __Pirmary Care__, Public Health Doctor
+- __Primary Care__, Public Health Doctor
   - Alternative Military Service, Korea
 
 
