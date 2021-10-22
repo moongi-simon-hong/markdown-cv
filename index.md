@@ -16,7 +16,7 @@ title: moongi  hong cv
 `Sep 2019 ~ Aug 2021 `
 - __M.S.__ in __Biomedical Informatics__
   - CHA University, Seongnam, Korea
-  - Adviosr : Hyunwook Han
+  - Adviosr : Hyun Wook Han
 
 `Mar 2009 ~ Feb 2016`
 - __M.D.__
