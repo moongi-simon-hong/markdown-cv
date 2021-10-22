@@ -6,7 +6,7 @@ title: moongi  hong cv
 # Moongi Hong, M.D., M.S.
 
 ## Present Position
-- Researcher, CHA University, Seongnam, Korea
+- __Researcher__, CHA University, Seongnam, Korea
 
 ## Contact
 - moongi.simon.hong@gmail.com
@@ -14,7 +14,7 @@ title: moongi  hong cv
 
 ## Education
 `Sep 2019 ~ Aug 2021 `
-- __M.S.__ in Biomedical Informatics
+- __M.S.__ in __Biomedical Informatics__
   - CHA University, Seongnam, Korea
   - Adviosr : Hyunwook Han
 
@@ -48,13 +48,13 @@ title: moongi  hong cv
 
 ## Presentation
 `2019`
-__Speaker: Introducing Research Group__, 1st Healthcare Bigdata Symposium
+__Speaker__: Introducing Research Group, 1st Healthcare Bigdata Symposium
 
 `2020`
 __Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
 
 `2021`
-Poster: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
+__Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
 
 ## Certificate
 `2019 2020`
@@ -65,16 +65,13 @@ Poster: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function 
   - included 60+ courses which took 200+ hours
 
 ## Skills
-Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
-
-R : glm, ggplot, qgraph
-
-Linux : bash, zsh, jupyter, vim, emacs, postgresql
-
-Tools : endnote, word, powerpoint
+- __Python__ : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
+- __R__ : glm, ggplot, qgraph
+- __Linux__ : bash, zsh, jupyter, vim, emacs, postgresql
+- __Tools__ : endnote, word, powerpoint
 
 ## Self-Study
-Structure and Interpretation of Computer Prgrams (cs61a, UCB)
+Structure and Interpretation of Computer Programs (cs61a, UCB)
 
 ## Intersts
 Table tennis, Classical music, Movie, Reading
