@@ -64,10 +64,10 @@ Discussion Panel: 실제 임상데이터(RWD) 활용 감염병의 세계적 유�
 Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
 
 ## Skills
-- Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
-- R : glm, ggplot, qgraph
-- Linux : bash, zsh, jupyter, vim, emacs, postgresql
-- Tools : endnote, word, powerpoint
+Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
+R : glm, ggplot, qgraph
+Linux : bash, zsh, jupyter, vim, emacs, postgresql
+Tools : endnote, word, powerpoint
 
 ## Self-Study
 Structure and Interpretation of Computer Prgrams (cs61a, UCB OCW)
