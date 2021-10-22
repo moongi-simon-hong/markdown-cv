@@ -39,7 +39,7 @@ title: moongi  hong cv
 `Mar 2019 ~ Aug 2021`
 - Research Assistant, CHA University
   - Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis.
-  - Converted 200k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
+  - Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data(lab test and demographics).
   - Controlled quailty of data by method combining manual labelling and modelling. 
 
 `Sep 2020 ~ Present`
@@ -54,17 +54,14 @@ title: moongi  hong cv
   - Medical Statistics and medical informatics
 
 ## Presentation
-`Oct 2019`
-- Introducing Research Group
-  - 1st Healthcare Bigdata Symposium
+`2019`
+- Speaker: Introducing Research Group, 1st Healthcare Bigdata Symposium
 
-`Oct 2020`
-- 72th Fall Conference of Korean Epidemiological Society
-  - Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
+`2020`
+- Discussion Panel: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
 
-`July 2021`
-- 2021 Spring Conference of Korean Society of Medical Informatics
-  - Poster, Renal function prediction after of kidney after kidney transplantation
+`2021`
+- Moongi Hong, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, 2021 Spring Conference of Korean Society of Medical Informatics
 
 ## Skills
 - Python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
