@@ -58,7 +58,8 @@ __Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal func
 
 ## Award
 `2021`
-- __입선__: 장은찬, __홍문기__, 구장회, 남상민: 보건의료빅데이터 활용 창업 경진대회, 건강보험심사평가원
+- __입선__: 장은찬, __홍문기__, 구장회, 남상민
+- 보건의료빅데이터 활용 창업 경진대회, 건강보험심사평가원
 
 ## Certificate
 `2019 2020`
