@@ -44,7 +44,7 @@ title: moongi  hong cv
 ## Teaching
 `Fall 2019, Fall 2020`
 - __Teaching Assitant__, CHA University Medical School
-  - Medical Statistics and medical informatics
+  - Medical Statistics and Medical Informatics
 
 ## Presentation
 `2019`
@@ -54,7 +54,7 @@ __Speaker__: Introducing Research Group, 1st Healthcare Bigdata Symposium
 __Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, Fall Conference of Korean Epidemiological Society
 
 `2021`
-__Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after of kidney after kidney transplantation, Spring Conference of Korean Society of Medical Informatics
+__Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after kidney transplantationusing XGBoost, Spring Conference of Korean Society of Medical Informatics
 
 ## Award
 `2021`
