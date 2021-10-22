@@ -1,0 +1,121 @@
+I"*<h1 id="moongi-hong-md-ms">Moongi Hong, M.D., M.S.</h1>
+
+<h2 id="present-position">Present Position</h2>
+<ul>
+  <li>Researcher, CHA University, Seongnam, Korea</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+<ul>
+  <li>moongi.simon.hong@gmail.com</li>
+  <li>Live in Bundang, Seongnam, Korea</li>
+</ul>
+
+<h2 id="education">Education</h2>
+<p><code class="language-plaintext highlighter-rouge">Sep 2019 ~ Aug 2021 </code></p>
+<ul>
+  <li>M.S. in Biomedical Informatics
+    <ul>
+      <li>CHA University, Seongnam, Korea</li>
+      <li>Adviosr : Hyunwook Han</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Mar 2009 ~ Feb 2016</code></p>
+<ul>
+  <li>M.D.
+    <ul>
+      <li>Yonsei university, Wonju, Korea</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+<p><code class="language-plaintext highlighter-rouge">Apr 2016 ~ Apr 2019</code></p>
+<ul>
+  <li>Pirmary Care, Public Health Doctor</li>
+</ul>
+
+<h2 id="certificate">Certificate</h2>
+<p><code class="language-plaintext highlighter-rouge">2019 2020</code></p>
+<ul>
+  <li>Seongnam-KAIST AI Intensive Course</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2020</code></p>
+<ul>
+  <li>Datacamp Python Programmer, Data Analyst, Data Scientist
+    <ul>
+      <li>included 62+ courses which took 200+ hours</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="research">Research</h2>
+<p><code class="language-plaintext highlighter-rouge">Mar 2019 ~ Aug 2021</code></p>
+<ul>
+  <li>Research Assistant, CHA University
+    <ul>
+      <li>Collected and managed 100k+ patients generated data including images and lab test.</li>
+      <li>Developed deep learning model to predict side(left, right)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2020 ~ Present</code></p>
+<ul>
+  <li>Master’s Thesis, CHA University
+    <ul>
+      <li>Predicted prognosis after kidney transplantation and explained it’s impact</li>
+      <li>Developed GPU-accelerated xgboost model for binary classification</li>
+      <li>Explained model with shapley values, and validated prediction by survival analysis</li>
+      <li>Built surrogate logistic regression model to show statistical significance</li>
+      <li>Suggested essential risk factor by network analysis</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="teaching">Teaching</h2>
+<p><code class="language-plaintext highlighter-rouge">Fall 2019, Fall 2020</code></p>
+<ul>
+  <li>Teaching Assitant, CHA University Medical School
+    <ul>
+      <li>Medical Statistics and medical informatics</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="presentation">Presentation</h2>
+<p><code class="language-plaintext highlighter-rouge">Oct 2019</code></p>
+<ul>
+  <li>Introducing Research Group
+    <ul>
+      <li>1st Healthcare Bigdata Symposium, Pangyo CHA Bio Complex</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Oct 2020</code></p>
+<ul>
+  <li>Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
+    <ul>
+      <li>72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+<ul>
+  <li>python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow</li>
+  <li>R : glm, ggplot, qgraph</li>
+  <li>linux : bash, zsh, jupyter, vim, emacs, postgresql</li>
+  <li>tools : endnote, word, powerpoint</li>
+</ul>
+
+<h2 id="self-study">Self-Study</h2>
+<p>Structure and Interpretation of Computer Prgrams (cs61a, UCB OCW)</p>
+
+<h2 id="intersts">Intersts</h2>
+<p>Table tennis, Classical music, Movie, Reading</p>
+:ET

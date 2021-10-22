@@ -25,28 +25,31 @@ title: moongi  hong cv
 ## Experience
 `Apr 2016 ~ Apr 2019`
 - Pirmary Care, Public Health Doctor
+  - Alternative Military Service, Korea
 
 ## Certificate
 `2019 2020`
 - Seongnam-KAIST AI Intensive Course
 
-`2020`
+`2019 2020`
 - Datacamp Python Programmer, Data Analyst, Data Scientist 
-  - included 62+ courses which took 200+ hours
+  - included 60+ courses which took 200+ hours
 
 ## Research
 `Mar 2019 ~ Aug 2021`
 - Research Assistant, CHA University
-  - Collected and managed 100k+ patients generated data including images and lab test. 
-  - Developed deep learning model to predict side(left, right)
+  - Worked with Prof. Sang Min Nam of opthalmolog to develop AI based retinal image analysis system
+  - Converted 200k+ de-identified DICOM images from multiple hospital.
+  - Merged images with lab test and patient demographics to provide deep learning data set
+  - Controlled quailty of data by combining manual labelling and modelling
 
 `Sep 2020 ~ Present`
 - Master's Thesis, CHA University
-  - Predicted prognosis after kidney transplantation and explained it's impact
+  - Worked with Prof. Yu Ho Lee of nephrology to predicted prognosis after kidney transplantation
   - Developed GPU-accelerated xgboost model for binary classification 
   - Explained model with shapley values, and validated prediction by survival analysis
-  - Built surrogate logistic regression model to show statistical significance
-  - Suggested essential risk factor by network analysis
+  - Built surrogate logistic regression model to confirm statistical significance
+  - Suggested essential risk factors by network analysis
 
 ## Teaching
 `Fall 2019, Fall 2020`
@@ -61,6 +64,10 @@ title: moongi  hong cv
 `Oct 2020`
 - Discussion Panel, 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응
   - 72th Fall Conference of Korean Epidemiological Society, Hotel Inter Burgo Daegu
+
+`July 2021`
+- Poster, Renal function prediction after of kidney after kidney transplantation
+  - 2021 Spring Conference of Korean Society of Medical Informatics
 
 ## Skills
 - python : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
