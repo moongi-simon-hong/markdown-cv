@@ -78,5 +78,5 @@ __Poster__: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal funct
 ## Self-Study
 Structure and Interpretation of Computer Programs (cs61a, UCB)
 
-## Intersts
+## Interests
 Table tennis, Classical music, Movie, Reading
