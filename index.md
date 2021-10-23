@@ -51,7 +51,7 @@ title: moongi  hong cv
 __Speaker__: Introducing Research Group, 1st Healthcare Bigdata Symposium
 
 `2020`
-__Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference, The Korean Society for Preventive Medicine
+__Discussion Panel__: 실제 임상데이터 (RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference, The Korean Society for Preventive Medicine
 
 `2021`
 __Poster__: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after kidney transplantation using XGBoost, Spring Conference, The Korean Society of Medical Informatics
