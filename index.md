@@ -10,13 +10,13 @@ title: moongi  hong cv
 
 ## Contact
 - __moongi.simon.hong@gmail.com__
-- Live in Bundang, Seongnam, Korea
+- Living in Bundang, Seongnam, Korea
 
 ## Education
 `Sep 2019 ~ Aug 2021 `
 - __M.S.__ in __Biomedical Informatics__
   - CHA University, Seongnam, Korea
-  - Advisor : Hyun Wook Han
+  - Advisor: Hyun Wook Han
 
 `Mar 2009 ~ Feb 2016`
 - __M.D.__
@@ -31,14 +31,14 @@ title: moongi  hong cv
 ## Research
 `Mar 2019 ~ Aug 2021`
 - __Research Assistant__, CHA University
-  - Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis system.
+  - Worked with Prof. Sang Min Nam of Opthalmology to develop AI based retinal image analysis system.
   - Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data (lab test and demographics).
-  - Controlled quailty of data by manual labelling or modelling. 
+  - Controlled quality of data by manual labelling or modelling. 
 
 `Sep 2020 ~ Present`
 - __Master's Thesis__, CHA University
-  - Worked with Prof. Yu Ho Lee of nephrology to predict prognosis after kidney transplantation from national cohort of 4k+ patients.
-  - Developed GPU-accelerated xgboost model for binary classification, explained model with shapley values, and validated prediction by survival analysis.
+  - Worked with Prof. Yu Ho Lee of Nephrology to predict prognosis after kidney transplantation from a national cohort of 4k+ patients.
+  - Developed GPU-accelerated XGBoost model for binary classification, explained model with Shapley values, and validated prediction by survival analysis.
   - Built surrogate logistic regression model to confirm statistical significances, and suggested 2 essential risk factors by network analysis.
 
 ## Teaching
@@ -48,17 +48,17 @@ title: moongi  hong cv
 
 ## Presentation
 `2019`
-__Speaker__ : Introducing Research Group, 1st Healthcare Bigdata Symposium
+__Speaker__: Introducing Research Group, 1st Healthcare Bigdata Symposium
 
 `2020`
-__Discussion Panel__ : 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference, The Korean Society for Preventive Medicine
+__Discussion Panel__: 실제 임상데이터(RWD) 활용 감염병의 세계적 유행 대응, 72th Fall Conference, The Korean Society for Preventive Medicine
 
 `2021`
-__Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam : Renal function prediction after kidney transplantation using XGBoost, Spring Conference, The Korean Society of Medical Informatics
+__Poster__: __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam: Renal function prediction after kidney transplantation using XGBoost, Spring Conference, The Korean Society of Medical Informatics
 
 ## Award
 `2021`
-- __입선__ : 장은찬, __홍문기__, 구장회, 남상민
+- __입선__: 장은찬, __홍문기__, 구장회, 남상민
 - 보건의료빅데이터 활용 창업 경진대회, 건강보험심사평가원
 
 ## Certificate
@@ -70,10 +70,10 @@ __Poster__ : __Moongi Hong__, Yu Ho Lee, Hyun Wook Han, Sang Min Nam : Renal fun
   - included 60+ courses which took 200+ hours
 
 ## Skills
-- __Python__ : numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
-- __R__ : glm, ggplot, qgraph
-- __Linux__ : bash, zsh, jupyter, vim, emacs, postgresql
-- __Tools__ : endnote, word, powerpoint
+- __Python__: numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tpot, shap, lifelines, sqlite3, tensorflow
+- __R__: glm, ggplot, qgraph
+- __Linux__: bash, zsh, jupyter, vim, emacs, postgresql
+- __Tools__: endnote, word, powerpoint
 
 ## Self-Study
 Structure and Interpretation of Computer Programs (cs61a, UCB)
