@@ -16,7 +16,7 @@ title: moongi  hong cv
 `Sep 2019 ~ Aug 2021 `
 - __M.S.__ in __Biomedical Informatics__
   - CHA University, Seongnam, Korea
-  - Adviosr : Hyun Wook Han
+  - Advisor : Hyun Wook Han
 
 `Mar 2009 ~ Feb 2016`
 - __M.D.__
@@ -33,7 +33,7 @@ title: moongi  hong cv
 - __Research Assistant__, CHA University
   - Worked with Prof. Sang Min Nam of opthalmology to develop AI based retinal image analysis system.
   - Converted 100k+ de-identified DICOM images from multiple hospitals, and prepared learning data set by merging image data with tabular data (lab test and demographics).
-  - Controlled quailty of data by method combining manual labelling and modelling. 
+  - Controlled quailty of data by manual labelling or modelling. 
 
 `Sep 2020 ~ Present`
 - __Master's Thesis__, CHA University
